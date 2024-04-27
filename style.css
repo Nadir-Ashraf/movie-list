@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    background-color: #101820;
+    overflow-x: hidden;
+    
+}
+.heading{
+    text-align:center ;
+    background-color: #FEE715;
+    font-size: 50px;
+}
+.image{
+    height: 400px;
+    width: 350px;
+}
+.film-name{
+    font-family: "Jersey 25", sans-serif;
+    color: #FEE715;
+    max-width: 350px;
+}
+a{
+    color: #FEE715;
+    text-decoration: none;
+}
+a:hover{
+    color: #d45e0b;
+}
+.film-description{
+    color: #d45e0b;
+    max-width: 370px;
+    position: relative;
+    right: 0px;
+    top: -410px;
+    left: 370px;
+    font-size: 20px;
+}
+.film{
+    position: relative;
+    right: -370px;
+}
+
